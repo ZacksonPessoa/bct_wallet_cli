@@ -1,0 +1,22 @@
+[
+    {
+        "wallet_name":"genise",
+        "address":"bcrt1qpt9d4zlw3z66q63gapqmfqxqsu3tfrfll2nycz"
+    },
+    {
+        "wallet_name": "test1",
+        "address": "bcrt1qcgksat3cw7m7mwaerzx9qanms2qdv0cj5etj8t"
+    },
+    {
+        "wallet_name": "test1",
+        "address": "bcrt1q9vlxln8vqhe25jeaq4vctl4mucxem08nf7ztgf"
+    },
+    {
+        "wallet_name": "MinhaCarteira",
+        "address": "bcrt1qyrjd6w3m82l4yg5rvq8eushue6pg79v696y36h"
+    },
+    {
+        "wallet_name": "teste2",
+        "address": "bcrt1qfnaya5hjsr62k888ekrrkhvejdhz6tqqx3ddqk"
+    }
+]
