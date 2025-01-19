@@ -114,14 +114,15 @@ python wallet.py send --from_address bcrt1qexamplefrom --to_address bcrt1qexampl
 
 Dillinger is currently extended with the following plugins.
 Instructions on how to use them in your own application are linked below.
-> bitcoin-wallet-cli/
->├── modules/
->│   ├── rpc_client.py         # Comunicação com o nó Bitcoin Core
->│   ├── wallet_handler.py     # Manipulação do arquivo JSON da carteira
->├── wallet.py                 # Arquivo principal da CLI
->├── requirements.txt          # Dependências do projeto
->├── wallet.json               # Arquivo de endereços gerados (criado >automaticamente)
-.
+```sh
+        bitcoin-wallet-cli/
+       ├── modules/
+       │   ├── rpc_client.py         # Comunicação com o nó Bitcoin Core
+       │   ├── wallet_handler.py     # Manipulação do arquivo JSON da carteira
+       ├── wallet.py                 # Arquivo principal da CLI
+       ├── requirements.txt          # Dependências do projeto
+       ├── wallet.json               # Arquivo de endereços gerados (criado >automaticamente)
+````
 
 
 
