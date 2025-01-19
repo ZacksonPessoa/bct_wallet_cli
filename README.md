@@ -32,7 +32,7 @@ O projeto foi testado e na máquina local fazendo requisições ao nó configura
 1 - Clonar o repositório:
 
 ```sh
-git clone https://github.com/seu-usuario/bitcoin-wallet-cli.git
+git clone https://github.com/ZacksonPessoa/bitcoin-wallet-cli.git
 cd bitcoin-wallet-cli
 ```
 
