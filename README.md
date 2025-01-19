@@ -111,9 +111,6 @@ python wallet.py send --from_address bcrt1qexamplefrom --to_address bcrt1qexampl
 
 
 ## Estrutura do Projeto
-
-Dillinger is currently extended with the following plugins.
-Instructions on how to use them in your own application are linked below.
 ```sh
         bitcoin-wallet-cli/
        ├── modules/
